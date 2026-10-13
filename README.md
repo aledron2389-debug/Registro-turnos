@@ -4,6 +4,6 @@ Prototipo web responsive para organizar turnos presenciales. Incluye creación d
 
 ## Publicación
 
-Proyecto estático listo para Vercel. Importa este directorio como un proyecto nuevo en Vercel o ejecuta `vercel` desde la carpeta después de autenticar el CLI. No requiere comando de build.
+Proyecto estático conectado al repositorio público de GitHub y a Vercel; los cambios en `main` despliegan automáticamente. No requiere comando de build. Incluye un tono al crear turnos y anuncio de voz al llamar al siguiente; el audio se puede silenciar desde el panel.
 
 > Los datos actuales viven en el navegador del dispositivo (localStorage); para uso multiusuario hace falta conectar una base de datos y autenticación.
